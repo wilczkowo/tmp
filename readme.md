@@ -1,1 +1,1 @@
-projekt kwiaciarni
+projekt kwiaciarni ze zmiennymi
